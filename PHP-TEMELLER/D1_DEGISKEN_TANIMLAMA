@@ -1,0 +1,11 @@
+<?php 
+//Kodumuz geliyor.
+    /*
+    $renk = "Beyaz";
+    $numara = 10;
+    $pi = 3.14;
+    $statement = true;*/
+
+    echo "Renk : " . $renk . " Numara : " .$numara;
+
+?>
